@@ -1,0 +1,100 @@
+.background-image {
+    background-image: url(images/flood2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    margin: auto;
+}
+
+.background-image h1 {
+    font-family: inter, sans-serif;
+    text-align: center;
+    font-size: 70px;
+    color: aliceblue;
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-top: 10%;
+}
+
+p {
+    text-align: center;
+    color: white;
+    font-family: poppins;
+    font-size: 18px;
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: center;
+}
+
+.donate-button {
+    display: flex;
+    justify-content: center;
+    background-color: #FF5959;
+    color: white;
+    font-weight: 800;
+    text-decoration: none;
+    margin-left: 45%;
+    margin-right: 45%;
+    border-radius: 5px;
+    padding: 5px;
+
+
+
+}
+
+.donate-today {
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: 0;
+}
+
+span {
+    color: #707070;
+    font-size: 18px;
+    font-style: poppins;
+
+}
+
+#ammount1 {
+    text-decoration: none;
+    background-color: whitesmoke;
+    color: #707070;
+    border-radius: #FF5959;
+    padding-right: 25px;
+
+}
+
+#ammount2 {
+    text-decoration: none;
+    background-color: whitesmoke;
+    color: #FF5959;
+    border: 2px solid #FF5959;
+    padding-right: 25px;
+}
+
+#ammount3 {
+    text-decoration: none;
+    background-color: whitesmoke;
+    color: #707070;
+    padding-right: 25px;
+}
+
+#ammount4 {
+    text-decoration: none;
+    background-color: whitesmoke;
+    color: #707070;
+    padding-right: 25px;
+}
+
+#ammount5 {
+    text-decoration: none;
+    background-color: whitesmoke;
+    color: #707070;
+}
+
+#donate-2 {
+    background-color: #FF5959;
+    color: white;
+    text-decoration: none;
+
+}
