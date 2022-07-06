@@ -155,3 +155,107 @@ p {
 h2 {
     text-align: center;
 }
+
+.get-update {
+    text-align: center;
+    font-size: 50px;
+}
+
+.get-update span {
+    text-align: center;
+    font-size: 25px;
+    color: #707070;
+}
+
+.box {
+    background-color: #FFF4D6;
+    margin: 50px 200px 0 200px;
+    padding: 50px;
+
+}
+
+.form-box button {
+    color: white;
+    background-color: #FF5959;
+    font-size: 23px;
+    padding: 0;
+    margin: 0;
+    border: none;
+}
+
+.form-box input {
+    background-color: #D9D9D9;
+    text-align: left;
+    margin: 0;
+}
+
+footer {
+    background-color: #0B0D17;
+}
+
+.foot {
+    font-family: 'Lobster', cursive;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Poppins', sans-serif;
+    color: #FF5959;
+    padding-top: 10px;
+}
+
+.foot p {
+    font-size: 15px;
+    color: #707070;
+    font-size: 'lobster';
+    margin-bottom: auto;
+
+}
+
+.about-us {
+    display: flex;
+    margin-bottom: 10px;
+
+}
+
+.div1 {
+    width: 50%;
+    padding-left: 5px;
+    padding-right: 10px;
+}
+
+.div2 {
+    width: 50%;
+    padding-left: 5px;
+
+
+}
+
+.div2 img {
+    width: 650px;
+    height: 500px;
+
+}
+
+.div1 h1 {
+    color: rgb(10, 2, 2);
+    font-size: 50px;
+    font-weight: 700;
+    background-color: rgb(209, 201, 201);
+    margin-right: 68%;
+    border: 2px solid rgb(54, 50, 50);
+    border-radius: 5px
+}
+
+.div1 span {
+    font-size: 20px;
+    color: #707070;
+}
+
+hr {
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.other span {
+    color: #707070;
+    font-size: 18px;
+
+}
