@@ -52,7 +52,6 @@ p {
     color: #707070;
     font-size: 18px;
     font-style: poppins;
-    margin-top: none;
 
 }
 
@@ -177,7 +176,7 @@ h2 {
 .form-box button {
     color: white;
     background-color: #FF5959;
-    font-size: 23px;
+    font-size: 24px;
     padding: 0;
     margin: 0;
     border: none;
@@ -186,7 +185,7 @@ h2 {
 .form-box input {
     background-color: #D9D9D9;
     text-align: left;
-    margin: 0;
+    margin-right: -13px;
 }
 
 footer {
@@ -249,13 +248,11 @@ footer {
     color: #707070;
 }
 
-hr {
-    margin-left: 25%;
-    margin-right: 25%;
-}
 
-.other span {
+
+.other input {
     color: #707070;
     font-size: 18px;
+    border-bottom: 2px solid #707070;
 
 }
